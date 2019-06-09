@@ -6,5 +6,10 @@ public class GitTest {
         System.out.println("lllll");
         System.out.println("sssss");
         System.out.println("sssss");
+
+    }
+
+    public void test() {
+        System.out.println("测试方法");
     }
 }
